@@ -54,4 +54,4 @@ Banks use different column names and date formats. Change these lines in `main.p
 
 ## Author
 
-Swarup, Python learner at NIAT, Pune
+Swarup,a Python learner 🫡
